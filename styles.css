@@ -1,0 +1,196 @@
+.mediaViewInfo {
+  --web-view-name: Sukanta Pal;
+  --web-view-id: Sukanta_Pal;
+  --web-scale-on-resize: true;
+  --web-enable-deep-linking: true;
+}
+:root {
+  --web-view-ids: Sukanta_Pal;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  border: none;
+}
+#Sukanta_Pal {
+  position: absolute;
+  background: #E5E5E5;
+  width: 1920px;
+  height: 1080px;
+  background-color: rgba(255,255,255,1);
+  overflow: hidden;
+  --web-view-name: Sukanta Pal;
+  --web-view-id: Sukanta_Pal;
+  --web-scale-on-resize: true;
+  --web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+
+}
+#BG {
+  position: absolute;
+  width: 1920px;
+  height: 1280px;
+  left: 0px;
+  top: -200px;
+  overflow: visible;
+}
+#Group_2 {
+  position: absolute;
+  width: 1920px;
+  height: 1018px;
+  left: 0px;
+  top: 62px;
+  overflow: visible;
+}
+#SUKANTA_PAL {
+  filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+  position: absolute;
+  left: 137px;
+  top: 25px;
+  overflow: visible;
+  width: 292px;
+  white-space: nowrap;
+  line-height: 89px;
+  margin-top: -19.5px;
+  text-align: left;
+  font-family: Alfred-Bold;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 50px;
+  color: rgba(255,255,255,1);
+}
+#Rectangle_1 {
+  filter: blur(50px);
+}
+.Rectangle_1 {
+  position: absolute;
+  overflow: visible;
+  width: 1920px;
+  height: 142px;
+  left: 0px;
+  top: 876px;
+}
+#isukantapal_gmail_com {
+  position: absolute;
+  left: 78px;
+  top: 931px;
+  overflow: visible;
+  width: 318px;
+  white-space: nowrap;
+  line-height: 90px;
+  margin-top: -30px;
+  text-align: left;
+  font-family: Palatino;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 30px;
+  color: rgba(255,255,255,1);
+}
+#The_Creative_Storyteller {
+  position: absolute;
+  left: 741px;
+  top: 927px;
+  overflow: visible;
+  width: 439px;
+  white-space: nowrap;
+  line-height: 90px;
+  margin-top: -25px;
+  text-align: left;
+  font-family: Palatino;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 40px;
+  color: rgba(255,255,255,1);
+}
+.Line_2 {
+  overflow: visible;
+  position: absolute;
+  width: 219.023px;
+  height: 6px;
+  left: 1219.5px;
+  top: 949.5px;
+  transform: matrix(1,0,0,1,0,0);
+}
+.Line_3 {
+  overflow: visible;
+  position: absolute;
+  width: 219.023px;
+  height: 6px;
+  left: 466.5px;
+  top: 951.5px;
+  transform: matrix(1,0,0,1,0,0);
+}
+#Twitter_Social_Icon_Circle_Whi {
+  position: absolute;
+  width: 49px;
+  height: 49px;
+  left: 1709px;
+  top: 926px;
+  overflow: visible;
+}
+#yt_icon_pms_mono_light {
+  position: absolute;
+  width: 64px;
+  height: 45px;
+  left: 1486px;
+  top: 926px;
+  overflow: visible;
+}
+#white_png {
+  position: absolute;
+  width: 75px;
+  height: 75px;
+  left: 1557px;
+  top: 913px;
+  overflow: visible;
+}
+#f_logo_RGB_White_72 {
+  position: absolute;
+  width: 52px;
+  height: 52px;
+  left: 1641px;
+  top: 925px;
+  overflow: visible;
+}
+#WordPress_logotype_wmark_white {
+  position: absolute;
+  width: 73px;
+  height: 73px;
+  left: 1763px;
+  top: 914px;
+  overflow: visible;
+}
+#Sukanta_Pal_Logo_Transparent__ {
+  filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+  position: absolute;
+  width: 139px;
+  height: 139px;
+  left: 910px;
+  top: 0px;
+  overflow: visible;
+}
+#Menu_Line {
+  opacity: 0.454;
+}
+.Menu_Line {
+  overflow: visible;
+  position: absolute;
+  width: 44.854px;
+  height: 52.686px;
+  left: 1733.111px;
+  top: 27.071px;
+  transform: matrix(1,0,0,1,0,0);
+  --web-animation: fadein 0.3s ease-out;
+  --web-action-type: page;
+  --web-action-target: Button.html;
+  cursor: pointer;
+}
