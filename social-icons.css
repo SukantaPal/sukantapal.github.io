@@ -1,0 +1,51 @@
+*{box-sizing: border-box;text-align: center;}
+
+@mixin no-bullets {list-style: none;}
+
+.sr-only {display:none;}
+
+ul.social-media__links {
+  @include no-bullets;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  
+  li {
+    a {
+      display: flex;
+      align-items: center;
+      width: 48px;
+      height: 48px;
+        path {
+           fill: #ffffff;
+           transition: fill .25s linear;
+      }
+    }
+    a:hover {
+       path {
+        fill: #34c84a;
+        }
+      }
+  }
+}
+.svg-icon {
+  &__email,
+  &__facebook,
+  &__instagram,
+  &__linkedin,
+  &__twitter,
+  &__vimeo,
+  &__youtube
+   {
+    height: 24px;
+    margin: 0 auto; 
+  }
+}
+
+.svg-icon__email {
+      height: 12px;
+ }
+
+.svg-icon__youtube {
+      height: 35px;
+ }
