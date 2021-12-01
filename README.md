@@ -1,4 +1,2 @@
 # sukantapal.com
-Sukanta Pal 2018-2021
-
-#Hola
+Sukanta Pal 2018-2022
